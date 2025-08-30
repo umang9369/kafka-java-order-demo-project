@@ -1,6 +1,3 @@
-Of course. Here is the updated `README.md` file with the text and images you provided, formatted and integrated as requested.
-
------
 
 # Kafka Java Order Demo Project
 
