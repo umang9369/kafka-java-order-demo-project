@@ -42,3 +42,8 @@ The project allows sending orders manually through the producer and observing re
 │ InventoryConsumer│ │ BillingConsumer │
 └─────────────────┘ └─────────────────┘
 
+🚀 Getting Started
+
+Follow the steps below to set up the environment and run the project.
+
+
