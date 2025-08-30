@@ -54,7 +54,7 @@ The project allows sending orders manually through the producer and observing re
 ### 🔗 Kafka Integration
 ![Kafka Integration](https://github.com/umang9369/kafka-java-order-demo-project/blob/main/screenshots/kafka%20integration.png)
 
-### 🖥️ Order Producer & Inventory Consumer (CLI Output)
+### 🖥️ Inventory Consumer & Order Producer (CLI Output)
 ![Order Producer & Inventory Consumer](https://github.com/umang9369/kafka-java-order-demo-project/blob/main/screenshots/Order%20Producer%20%26%20Inventory%20Consumer.png)
 
 ### 💳 Billing Consumer (CLI Output)
