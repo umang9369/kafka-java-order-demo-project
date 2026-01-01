@@ -124,3 +124,4 @@ Open two separate terminals in the project directory.
     ```bash
     mvn exec:java -Dexec.mainClass="com.example.kafka.consumer.BillingConsumer"
     ```
+Thank you for reading.
